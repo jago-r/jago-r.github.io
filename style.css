@@ -13,4 +13,8 @@ footer {
   padding: 3px;
   background-color: Black;
   color: #feffcc;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
